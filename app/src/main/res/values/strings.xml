@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Layouts3</string>
+    <string name="heading">Welcome to tic-tac-toe</string>
+    <string name="grid">Our-main-grid</string>
+    <string name="grid_h00">Our-main-grid-hori-00</string>
+    <string name="grid_h01">Our-main-grid-hori-01</string>
+    <string name="grid_h02">Our-main-grid-hori-02</string>
+    <string name="grid_h10">Our-main-grid-hori-10</string>
+    <string name="grid_h11">Our-main-grid-hori-11</string>
+    <string name="grid_h12">Our-main-grid-hori-12</string>
+    <string name="grid_h20">Our-main-grid-hori-20</string>
+    <string name="grid_h21">Our-main-grid-hori-21</string>
+    <string name="grid_h22">Our-main-grid-hori-22</string>
+    <string name="statusbar">x turn - tap to play</string>
+    <string name="button">Restart</string>
+
+
+</resources>
